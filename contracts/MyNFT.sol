@@ -26,5 +26,4 @@ contract myNFT is ERC721URIStorage, Ownable {
 
             return newItemId;                           // returning NFT id
     }
-
 }
